@@ -1,1 +1,1 @@
-tem que instalar o connector antes de executar o arquivo
+tem que instalar o mySql connector antes de executar o arquivo
